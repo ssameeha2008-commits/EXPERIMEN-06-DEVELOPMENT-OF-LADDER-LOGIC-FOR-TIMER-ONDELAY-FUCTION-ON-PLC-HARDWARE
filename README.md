@@ -1,3 +1,7 @@
+### NAME:SAMEEHA S
+### REG NO:212225230243
+### DATE:31/08/2026
+
 ### EXPERIMENT-06-DEVELOPMENT-OF-LADDER-LOGIC-FOR-TIMER-ONDELAY-FUCTION-ON-PLC-HARDWARE-
 
 ### AIM 
@@ -53,9 +57,14 @@ S.No	Input (X0)	Time Delay (sec)	Output (Y0)
 
 ###  HARDWARE SETUP 
 
+<img width="1046" height="842" alt="image" src="https://github.com/user-attachments/assets/1075d24e-484e-44b4-ae79-f124df880042" />
 
 
 
 ### LADDER LOGIC
+<img width="1042" height="545" alt="image" src="https://github.com/user-attachments/assets/818fd9de-2e5f-44a8-b5ab-39fdc455f698" />
+<img width="1042" height="366" alt="image" src="https://github.com/user-attachments/assets/1dadf2da-758a-44e5-96c9-34820f4ce655" />
+
+
 ### Conclusion:
 The ON-Delay timer function was successfully implemented using Delta SV2 PLC. The output activated after a 0.5-second delay once the input was turned ON.
